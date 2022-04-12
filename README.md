@@ -11,7 +11,7 @@ for x in range(WIDTH):
             column.append("#")
         else:
             column.append(" ")
-    nextCella.append(column)
+    nextCell.append(column)
 
 while True:
     print("\n\n\n\n\n")
